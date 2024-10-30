@@ -1,5 +1,3 @@
-Claro! Aqui está uma versão mais rica e detalhada do texto, com informações adicionais sobre a linguagem Lua, suas características, mais exemplos e práticas recomendadas:
-
 ---
 
 # Linguagens de Desempenho em Jogos: Foco em Lua
@@ -212,5 +210,3 @@ print("Todos os testes passaram!")
 ## Conclusão
 
 Seguir boas práticas ao programar em Lua não só melhora a eficiência do seu código, mas também garante uma experiência de jogo mais fluida. É crucial testar e otimizar seu código regularmente, pois a performance pode variar dependendo do contexto. Através de um gerenciamento eficaz da memória, uso adequado de estruturas de dados e uma organização clara do código, você pode criar jogos que não apenas funcionam bem, mas também são agradáveis para os jogadores.
-
-Sinta-se à vontade para explorar este repositório, fazer fork e contribuir com suas próprias melhorias e otimizações
