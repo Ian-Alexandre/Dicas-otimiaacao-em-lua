@@ -2,7 +2,7 @@
 
 # Linguagens de Desempenho em Jogos: Foco em Lua
 
-Bem-vindo ao meu repositório! Aqui, exploraremos a importância da linguagem **Lua**, uma linguagem de desempenho amplamente utilizada no desenvolvimento de jogos, incluindo plataformas como **FiveM**, **MTA** e **Roblox**. Lua é uma linguagem leve e eficiente que permite a criação de scripts de alto desempenho, fundamentais para garantir uma experiência de jogo suave e responsiva.
+Bem-vindo ao meu repositório! Aqui, exploraremos a importância da linguagem **Lua**, uma linguagem de desempenho amplamente utilizada no desenvolvimento de jogos, incluindo plataformas como **FiveM**, **MTA**, **World of Warcraft**, **Dwarf Fortress**, **Angry Birds** e **Roblox**. Lua é uma linguagem leve e eficiente que permite a criação de scripts de alto desempenho, fundamentais para garantir uma experiência de jogo suave e responsiva.
 
 ## O que é Lua?
 
