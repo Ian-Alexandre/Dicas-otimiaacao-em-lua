@@ -210,3 +210,12 @@ print("Todos os testes passaram!")
 ## Conclusão
 
 Seguir boas práticas ao programar em Lua não só melhora a eficiência do seu código, mas também garante uma experiência de jogo mais fluida. É crucial testar e otimizar seu código regularmente, pois a performance pode variar dependendo do contexto. Através de um gerenciamento eficaz da memória, uso adequado de estruturas de dados e uma organização clara do código, você pode criar jogos que não apenas funcionam bem, mas também são agradáveis para os jogadores.
+---
+## Lembre-se
+
+Este material contém exemplos de código em Lua destinados a demonstrar boas práticas e técnicas de otimização para o desenvolvimento de jogos. É importante notar que estes são apenas exemplos ilustrativos e não representam todas as melhores práticas ou todas as possibilidades que a linguagem Lua oferece.
+
+Se você está interessado em aprender mais sobre a linguagem Lua e explorar mais códigos e exemplos, recomendo visitar o repositório oficial do Lua. Lá, você encontrará documentação abrangente, exemplos e a implementação mais recente da linguagem.
+
+Repositório Oficial do Lua
+Para acessar o repositório do Lua, visite: https://github.com/lua/lua no GitHub ou site oficial em: https://www.lua.org/portugues.html
